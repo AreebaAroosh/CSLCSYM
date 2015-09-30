@@ -1,1 +1,34 @@
-jghghjghg
+[
+  {
+    "Type": "DLF",
+    "File": "testdocuments/copydoc.txt"
+  },
+  {
+    "Type": "DLF",
+    "File": "testdocuments/deletedoc.txt"
+  },
+  {
+    "Type": "DLF",
+    "File": "testdocuments/movedoc.txt"
+  },
+  {
+    "Type": "CF",
+    "Location": "TTM",
+    "File": "/bin/copydoc.txt"
+  },
+  {
+    "Type": "DF",
+    "Location": "TTM",
+    "File": "/data/temp/deletedoc.txt"
+  },
+  {
+    "Type": "MF",
+    "Location": "TTM",
+    "File": "/bin/movedoc.txt"
+  },
+  {
+    "Type": "DF",
+    "Location": "TTM",
+    "File": "/data/temp/update.mana"
+  },
+]
