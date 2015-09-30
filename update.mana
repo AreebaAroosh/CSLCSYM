@@ -1,45 +1,13 @@
 [
   {
     "Type": "DLF",
-    "DLPath": "testdocuments/copydoc.txt",
-    "File": "copydoc.txt"
-  },
-  {
-    "Type": "DLF",
-    "DLPath": "testdocuments/deletedoc.txt",
-    "File": "deletedoc.txt"
-  },
-  {
-    "Type": "DLF",
-    "DLPath": "testdocuments/movedoc.txt",
-    "File": "movedoc.txt"
-  },
-  {
-    "Type": "CF",
-    "Location": "TTM",
-    "File": "data/temp/copydoc.txt",
-    "DFile": "bin/copydoc.txt"
-  },
-  {
-    "Type": "DF",
-    "Location": "TTM",
-    "File": "data/temp/deletedoc.txt"
+    "DLPath": "CSLCS%20Youth%20Management%20Suite.exe",
+    "File": "CSLCS Youth Management Suite.exe"
   },
   {
     "Type": "MF",
     "Location": "TTM",
-    "File": "data/temp/movedoc.txt",
-    "DFile": "bin/movedoc.txt"
-  },
-  {
-    "Type": "DF",
-    "Location": "TTM",
-    "File": "data/temp/update.mana"
-  },
-
-   {
-    "Type": "DirecC",
-    "Location": "TTM",
-    "Name": "data/temp/testdirec"
+    "File": "data/temp/CSLCS Youth Management Suite.exe",
+    "DFile": "CSLCS Youth Management Suite.exe"
   },
 ]
