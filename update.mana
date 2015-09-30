@@ -17,7 +17,8 @@
   {
     "Type": "CF",
     "Location": "TTM",
-    "File": "/bin/copydoc.txt"
+    "File": "copydoc.txt",
+    "DFile": "/bin/copydoc.txt"
   },
   {
     "Type": "DF",
@@ -27,7 +28,8 @@
   {
     "Type": "MF",
     "Location": "TTM",
-    "File": "/bin/movedoc.txt"
+    "File": "movedoc.txt",
+    "DFile": "/bin/movedoc.txt"
   },
   {
     "Type": "DF",
