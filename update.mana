@@ -23,7 +23,7 @@
   {
     "Type": "DF",
     "Location": "TTM",
-    "File": "/data/temp/deletedoc.txt"
+    "File": "CSLCSYM/data/temp/deletedoc.txt"
   },
   {
     "Type": "MF",
@@ -34,6 +34,6 @@
   {
     "Type": "DF",
     "Location": "TTM",
-    "File": "/data/temp/update.mana"
+    "File": "CSLCSYM/data/temp/update.mana"
   },
 ]
