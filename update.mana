@@ -4,6 +4,11 @@
     "DLPath": "CSLCS%20Youth%20Management%20Suite.exe",
     "File": "CSLCS Youth Management Suite.exe"
   },
+   {
+    "Type": "DF",
+    "Location": "MTT",
+    "File": "CSLCS Youth Management Suite.exe",
+  },
   {
     "Type": "MF",
     "Location": "TTM",
