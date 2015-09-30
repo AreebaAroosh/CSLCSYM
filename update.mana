@@ -17,23 +17,29 @@
   {
     "Type": "CF",
     "Location": "TTM",
-    "File": "CSLCSYM/data/temp/copydoc.txt",
-    "DFile": "/bin/copydoc.txt"
+    "File": "data/temp/copydoc.txt",
+    "DFile": "bin/copydoc.txt"
   },
   {
     "Type": "DF",
     "Location": "TTM",
-    "File": "CSLCSYM/data/temp/deletedoc.txt"
+    "File": "data/temp/deletedoc.txt"
   },
   {
     "Type": "MF",
     "Location": "TTM",
-    "File": "CSLCSYM/data/temp/movedoc.txt",
-    "DFile": "/bin/movedoc.txt"
+    "File": "data/temp/movedoc.txt",
+    "DFile": "bin/movedoc.txt"
   },
   {
     "Type": "DF",
     "Location": "TTM",
-    "File": "CSLCSYM/data/temp/update.mana"
+    "File": "data/temp/update.mana"
+  },
+
+   {
+    "Type": "DirecC",
+    "Location": "TTM",
+    "Name": "data/temp/testdirec"
   },
 ]
