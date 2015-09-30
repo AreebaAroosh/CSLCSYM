@@ -17,7 +17,7 @@
   {
     "Type": "CF",
     "Location": "TTM",
-    "File": "CSLCSYM\data\temp\copydoc.txt",
+    "File": "CSLCSYM/data/temp/copydoc.txt",
     "DFile": "/bin/copydoc.txt"
   },
   {
@@ -28,7 +28,7 @@
   {
     "Type": "MF",
     "Location": "TTM",
-    "File": "CSLCSYM\data\temp\movedoc.txt",
+    "File": "CSLCSYM/data/temp/movedoc.txt",
     "DFile": "/bin/movedoc.txt"
   },
   {
