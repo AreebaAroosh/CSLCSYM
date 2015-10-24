@@ -1,7 +1,5 @@
-This Update adds some pretty cool stuff.
+CSLCS:YM Change Log For Version 1.0.0.1
 
-I will proceed to talk about this cool stuff.
-
-How cool you ask?
-
-Really damn cool thats how much.
+-Added start up and error monitoring and reporting
+-Fixed Error toss for missing manifest even when manifest was present
+-Added a pretty rad thing to the log in screen
