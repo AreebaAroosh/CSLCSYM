@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SecurityQuestions>
+  <Question Id="1" QuestionText="What was the name of your first pet?"/>
+  <Question Id="2" QuestionText="What is your sibling's middle name?"/>
+  <Question Id="3" QuestionText="What was your mother's maiden name?"/>
+  <Question Id="4" QuestionText="Where did you go to elementary?"/>
+  <Question Id="5" QuestionText="Where did you go to high school?"/>
+  <Question Id="6" QuestionText="What was the make of your first car?"/>
+  <Question Id="7" QuestionText="Where did you go for your first date?"/>
+  <Question Id="8" QuestionText="Who was your best man/maid of honor at your wedding?"/>
+</SecurityQuestions>
