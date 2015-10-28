@@ -1,0 +1,41 @@
+[
+  {
+    "File": "/bin/doctemps/ChildDoc.docx"
+  },
+  {
+    "File": "/bin/doctemps/SignDoc.docx"
+  },
+  {
+    "File": "/bin/labeltemps/nametag.label"
+  },
+  {
+    "File": "/bin/labeltemps/nametagbday.label",
+  },
+  {
+    "File": "/bin/labeltemps/signoutcard.label"
+  },
+  {
+    "File": "/bin/labeltemps/visnametag.label",
+  },
+  {
+    "File": "/bin/systemimg/camera.png"
+  },
+  {
+    "File": "/bin/systemimg/cancel.png"
+  },
+  {
+    "File": "/bin/systemimg/loading.png"
+  },
+  {
+    "File": "/bin/systemimg/mainbg.png"
+  },
+  {
+    "File": "/bin/systemimg/noanounce.png"
+  },
+  {
+    "File": "/bin/systemimg/signmainbg.png"
+  },
+  {
+    "File": "/uFCoder-x86.dll"
+  }
+]
